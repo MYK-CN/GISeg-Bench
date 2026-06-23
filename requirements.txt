@@ -1,0 +1,67 @@
+# ===================================================================
+# GISeg-Bench — requirements.txt
+# ===================================================================
+# Auto-generated from project import analysis (read-only scan).
+# Groups are organized by necessity tier.
+# ===================================================================
+
+# -------------------------------------------------------------------
+# Core (required for training / inference / metrics pipeline)
+# -------------------------------------------------------------------
+torch>=1.12
+torchvision>=0.13
+numpy
+scipy
+scikit-image
+Pillow
+tqdm
+matplotlib
+
+# -------------------------------------------------------------------
+# GUI (required for gui/fenge.py and gui/train.py)
+# -------------------------------------------------------------------
+PyQt5
+
+# -------------------------------------------------------------------
+# Widely used by multiple model families
+# -------------------------------------------------------------------
+einops
+timm>=0.6.0
+opencv-python
+
+# -------------------------------------------------------------------
+# Model-specific dependencies (install per use)
+# -------------------------------------------------------------------
+
+# U-Net (SMP-based architectures in models/cnn/unet/)
+segmentation-models-pytorch
+
+# SAM-family models (medsam, sam_med2d, sam2_unet, medical_sam_adapter)
+segment-anything
+
+# SAM-Med2D data augmentation
+albumentations
+
+# MedSAM — NIfTI format support
+nibabel
+
+# SAM2-UNet — Hydra/OmegaConf config system
+hydra-core
+omegaconf
+
+# HiFormer — NIfTI export
+SimpleITK
+
+# UniverSeg — data validation
+pydantic
+
+# viewpoint_aware_net — YAML config parsing
+pyyaml
+
+# TransUNet — config data structure
+ml_collections
+
+# -------------------------------------------------------------------
+# Optional (enhanced logging / visualization)
+# -------------------------------------------------------------------
+tensorboard

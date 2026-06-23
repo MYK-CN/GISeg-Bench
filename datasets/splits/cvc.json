@@ -1,0 +1,208 @@
+{
+  "train": [
+    {
+      "image": "121.png",
+      "mask": "121.png"
+    },
+    {
+      "image": "12.png",
+      "mask": "12.png"
+    },
+    {
+      "image": "116.png",
+      "mask": "116.png"
+    },
+    {
+      "image": "109.png",
+      "mask": "109.png"
+    },
+    {
+      "image": "102.png",
+      "mask": "102.png"
+    },
+    {
+      "image": "14.png",
+      "mask": "14.png"
+    },
+    {
+      "image": "122.png",
+      "mask": "122.png"
+    },
+    {
+      "image": "107.png",
+      "mask": "107.png"
+    },
+    {
+      "image": "125.png",
+      "mask": "125.png"
+    },
+    {
+      "image": "113.png",
+      "mask": "113.png"
+    },
+    {
+      "image": "127.png",
+      "mask": "127.png"
+    },
+    {
+      "image": "118.png",
+      "mask": "118.png"
+    },
+    {
+      "image": "11.png",
+      "mask": "11.png"
+    },
+    {
+      "image": "101.png",
+      "mask": "101.png"
+    },
+    {
+      "image": "134.png",
+      "mask": "134.png"
+    },
+    {
+      "image": "133.png",
+      "mask": "133.png"
+    },
+    {
+      "image": "108.png",
+      "mask": "108.png"
+    },
+    {
+      "image": "120.png",
+      "mask": "120.png"
+    },
+    {
+      "image": "130.png",
+      "mask": "130.png"
+    },
+    {
+      "image": "1.png",
+      "mask": "1.png"
+    },
+    {
+      "image": "138.png",
+      "mask": "138.png"
+    },
+    {
+      "image": "115.png",
+      "mask": "115.png"
+    },
+    {
+      "image": "129.png",
+      "mask": "129.png"
+    },
+    {
+      "image": "142.png",
+      "mask": "142.png"
+    },
+    {
+      "image": "136.png",
+      "mask": "136.png"
+    },
+    {
+      "image": "126.png",
+      "mask": "126.png"
+    },
+    {
+      "image": "124.png",
+      "mask": "124.png"
+    },
+    {
+      "image": "117.png",
+      "mask": "117.png"
+    },
+    {
+      "image": "119.png",
+      "mask": "119.png"
+    },
+    {
+      "image": "137.png",
+      "mask": "137.png"
+    },
+    {
+      "image": "140.png",
+      "mask": "140.png"
+    },
+    {
+      "image": "131.png",
+      "mask": "131.png"
+    },
+    {
+      "image": "128.png",
+      "mask": "128.png"
+    },
+    {
+      "image": "139.png",
+      "mask": "139.png"
+    },
+    {
+      "image": "110.png",
+      "mask": "110.png"
+    }
+  ],
+  "val": [
+    {
+      "image": "143.png",
+      "mask": "143.png"
+    },
+    {
+      "image": "141.png",
+      "mask": "141.png"
+    },
+    {
+      "image": "100.png",
+      "mask": "100.png"
+    },
+    {
+      "image": "123.png",
+      "mask": "123.png"
+    },
+    {
+      "image": "132.png",
+      "mask": "132.png"
+    },
+    {
+      "image": "103.png",
+      "mask": "103.png"
+    },
+    {
+      "image": "13.png",
+      "mask": "13.png"
+    }
+  ],
+  "test": [
+    {
+      "image": "104.png",
+      "mask": "104.png"
+    },
+    {
+      "image": "106.png",
+      "mask": "106.png"
+    },
+    {
+      "image": "111.png",
+      "mask": "111.png"
+    },
+    {
+      "image": "112.png",
+      "mask": "112.png"
+    },
+    {
+      "image": "114.png",
+      "mask": "114.png"
+    },
+    {
+      "image": "10.png",
+      "mask": "10.png"
+    },
+    {
+      "image": "105.png",
+      "mask": "105.png"
+    },
+    {
+      "image": "135.png",
+      "mask": "135.png"
+    }
+  ]
+}
